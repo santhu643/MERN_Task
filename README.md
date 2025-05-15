@@ -92,10 +92,11 @@ MERN\_Task/
 ---
 
 ## 📬 Connect with Me
+🔗 LinkedIn - https://www.linkedin.com/in/santhiya-prakash-87449425a/
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/santhiya-prakash-87449425a/)
-* 💻 [GitHub](https://github.com/Santhiyaprakash)
-* 🧠 [LeetCode](https://leetcode.com/u/santhiya04/)
+💻 GitHub - https://github.com/santhu643
+
+🧠 LeetCode - https://leetcode.com/u/santhiyaprakash/
 
 ---
 
